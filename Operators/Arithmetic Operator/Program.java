@@ -6,5 +6,6 @@ class Program
         System.out.println(8/12);
         System.out.println(34%12);
         System.out.println(8%12);
+        System.out.println("hi");
     }
 }
